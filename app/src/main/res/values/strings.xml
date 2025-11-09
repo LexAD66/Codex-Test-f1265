@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ABook Player</string>
+    <string name="screen_library_title">Bibliothek</string>
+    <string name="screen_library_search">Suche in Hörbüchern</string>
+    <string name="screen_library_recent">Zuletzt gespielt</string>
+    <string name="screen_library_completed">Abgeschlossen</string>
+    <string name="screen_library_empty">Kein Inhalt gefunden.</string>
+    <string name="screen_player_title">Wiedergabe</string>
+    <string name="screen_player_chapter">Kapitel</string>
+    <string name="screen_player_duration">Dauer</string>
+    <string name="screen_player_rewind">Zurück 30 s</string>
+    <string name="screen_player_forward">Vor 30 s</string>
+    <string name="screen_player_speed">Geschwindigkeit</string>
+    <string name="screen_player_sleep">Schlaf-Timer</string>
+    <string name="screen_player_bookmark">Lesezeichen</string>
+    <string name="screen_player_loading">Wird geladen …</string>
+    <string name="screen_details_title">Details</string>
+    <string name="screen_details_toc">Kapitelverzeichnis</string>
+    <string name="screen_details_add_bookmark">Lesezeichen hinzufügen</string>
+    <string name="screen_details_note">Notiz</string>
+    <string name="screen_details_position">Position</string>
+    <string name="screen_details_delete">Löschen</string>
+    <string name="screen_details_play">Abspielen</string>
+    <string name="scanner_progress">ABook-Ordner wird gescannt …</string>
+    <string name="scanner_found">Neue Hörbücher gefunden</string>
+    <string name="scanner_failed">Import fehlgeschlagen</string>
+    <string name="notification_channel_name">abook_playback</string>
+    <string name="notification_channel_description">Benachrichtigungen für die Hörbuch-Wiedergabe</string>
+    <string name="permission_read_media_audio">Für den Zugriff auf lokale Hörbücher benötigt ABook Player die Audio-Leseerlaubnis.</string>
+    <string name="action_retry">Erneut versuchen</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="sleep_timer_off">Aus</string>
+    <string name="bookmark_saved">Lesezeichen gespeichert</string>
+    <string name="bookmark_deleted">Lesezeichen gelöscht</string>
+    <string name="position_saved">Position gespeichert</string>
+    <string name="playback_error">Wiedergabefehler – bitte prüfen Sie die Datei.</string>
+    <string name="scanner_done">Scan abgeschlossen</string>
+</resources>

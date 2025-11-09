@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<domain-config package="de.f_soft_studio.abookplayer">
+    <domain includeSubdomains="false">f-soft-studio.de</domain>
+</domain-config>
